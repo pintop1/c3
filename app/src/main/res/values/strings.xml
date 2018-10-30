@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">C3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!--Menu item texts -->
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_cart">Cart</string>
+    <string name="action_notifications">Notifications</string>
+    <string name="title_activity_main_real_page">MainRealPage</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="action_search_two">Search for anything</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="string_profile">Profile</string>
+    <string name="string_login">Sign In</string>
+    <string name="empty">You have no item in your cart</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //search suggestions
+    <string-array name="query_suggestions">
+        <item>Android</item>
+        <item>iOS</item>
+        <item>SCALA</item>
+        <item>Ruby</item>
+        <item>JavaScript</item>
+    </string-array>
+
+    <string name="category">All Categories</string>
+    <string name="continueShopping">CONTINUE SHOPPING</string>
+    <string name="userOrEmail">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <string name="forgetPassword">Forget Password?</string>
+    <string name="newOn">New on C3? </string>
+    <string name="signUp">CREATE AN ACCOUNT</string>
+
+    <string name="title_categories">Product Categories</string>
+    <string name="title_access">Accounts</string>
+    <string name="title_others">Others</string>
+    <string name="title_books">Books</string>
+    <string name="title_devotionals">Devotionals</string>
+    <string name="title_audio_visuals">Audio Visuals</string>
+    <string name="title_bibles">Bibles</string>
+    <string name="title_Others">Others</string>
+    <string name="title_login">Login</string>
+    <string name="title_register">Register</string>
+    <string name="title_logout">Logout</string>
+    <string name="hint_firstname">First Name</string>
+    <string name="hint_lname">Last Name</string>
+    <string name="email">Email Address</string>
+    <string name="phone">Phone e.g (+23480000000)</string>
+    <string name="regDesc">Create a new account!</string>
+    <string name="forRecovery">Please type in your email. \nWe will send you a link to change the password.</string>
+    <string name="submit">Submit</string>
+    <string name="buyNow">Buy Now</string>
+    <string name="reset">Reset Password</string>
+    <string name="settings">Settings</string>
+    <string name="my_account">My Account</string>
+    <string name="account_settings">ACCOUNT SETTINGS</string>
+    <string name="myProfile">My Profile</string>
+    <string name="myAddress">My Address</string>
+    <string name="myRatings">My Ratings</string>
+    <string name="notification_settings">NOTIFICATION SETTINGS</string>
+    <string name="pushNotifications">Push Notifications</string>
+    <string name="shop_settings">SHOP SETTINGS</string>
+    <string name="country">Country</string>
+    <string name="my_profile">My Profile</string>
+    <string name="myPersonalData">YOUR PERSONAL DATA</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="save">Save</string>
+    <string name="addrOne">Address</string>
+    <string name="addrTwo">Another Address (optional)</string>
+    <string name="addrTitle">My Address</string>
+    <string name="addrDesc">MY ADDRESS</string>
+    <string name="total">Total</string>
+    <string name="completeOrder">Complete order</string>
+    <string name="remove">REMOVE</string>
+    <string name="emptyStore">You have no item saved.</string>
+    <string name="browseProducts">Continue Browsing</string>
+    <string name="cPassword">Enter password again</string>
+    <string name="state">State</string>
+
+    <string name="title_home">Home</string>
+</resources>

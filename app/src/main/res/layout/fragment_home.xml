@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="charmingdev.d.c3.HomeFragment">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ir.apend.slider.ui.Slider
+            android:id="@+id/slider"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:animateIndicators="true"
+            app:defaultIndicators="circle"
+            app:indicatorSize="8dp"
+            app:intervalSecond="5"
+            app:loopSlides="true" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/opensans_bold"
+            android:textColor="@color/colorPrimary"
+            android:padding="15dp"
+            android:textSize="21sp"
+            android:text="@string/category"
+            android:paddingBottom="0dp"/>
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="20dp"/>
+    </LinearLayout>
+
+</RelativeLayout>
